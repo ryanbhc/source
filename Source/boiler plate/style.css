@@ -1,0 +1,136 @@
+
+ body{
+    font-family: monospace;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-bottom:: 175px;
+    background-color: black;
+   
+    /* the paddding creates space inside and around the tag */
+}
+.intro{
+    width:350px;
+    margin-top: 175px;
+    margin-bottom: 80px;
+    
+    
+}
+.roomimg img{
+    
+    width: 1200px;
+    margin-bottom: 100;    
+}
+
+.lightimg{
+    
+   width: 630px;
+    margin-top: 100px;
+    margin-bottom:20px;
+    
+    
+ 
+
+   
+}
+.industrial{
+    font-size:24px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    color: black;
+    background-color: white;
+    padding: 5px;
+    width:630px
+}
+.wework{
+    
+    width:350px;
+}
+.chairimg{
+    width:1100px;
+    margin-top:100px;
+    margin-bottom: 20px;
+    
+}
+
+.daychair{
+ 
+    font-size:24px;
+    margin-top:20px;
+    margin-bottom: 100px;
+    color: black;
+    background-color: white;
+    padding: 5px;
+    width:1100px    
+        
+}
+
+
+.table{
+    width:1700px;
+}
+
+.process{
+    font-size:24px;
+    margin-top:100px;
+    margin-bottom:50px;
+    padding-bottom: 50px;
+    border-bottom: solid 1px #fff;
+    width:1100px;
+    
+    
+}
+
+.wedesign{
+    width:350px;
+    margin-bottom:
+    
+}
+.footer{
+    
+    background-color:#1a1a1a;
+    width: 1100px;
+    padding: 30px;
+    
+    
+ 
+    
+    
+    
+}
+
+.footer a{
+    font-size: 24px;
+    color: grey;
+    text-decoration: none;
+}
+
+.footer h4{
+    padding-top: 10px;
+    font-size: 24px;
+    color: grey;
+    text-decoration: none;
+}
+
+
+
+
+
+@media screen and (min-width: 800px) {
+ 
+    
+    body {
+        background-color;
+    }
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
